@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correctOption": 2,
+      "score": 5
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "correctOption": 1,
+      "score": 4
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctOption": 3,
+      "score": 6
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": [
+        "Harper Lee",
+        "Jane Austen",
+        "Mark Twain",
+        "F. Scott Fitzgerald"
+      ],
+      "correctOption": 0,
+      "score": 7
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+      "correctOption": 0,
+      "score": 3
+    }
+  ]
+}
